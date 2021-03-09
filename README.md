@@ -50,7 +50,7 @@ I'm Ahmet, a FullStack developer from <img src="https://image.flaticon.com/icons
 <b>⚡ Fun facts</b>
 - <p>I often use ¯\_(ツ)_/¯ or (づ ◕‿◕ )づ ascii arts</p>
 - <p>I fly with Boeing 738 aircraft with X-Plane Flight Simulator in an online virtual aviation assosiation <a href="https://ivao.aero">IVAO</a></p>
-- <p>I like cooking _even i hurt myself while cooking 😅_ </p>
+- <p>I like cooking <i>even i hurt myself while cooking</i> 😅 </p>
 - <p><img src="https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white" /> user since <img src="https://img.shields.io/badge/Windows_95-008080?style=flat&logo=windows-95&logoColor=white" /></p>
 
 https://github-readme-stats.vercel.app/api/top-langs/?username=simsekahmett&layout=compact&langs_count=10
