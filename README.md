@@ -55,7 +55,7 @@ I'm Ahmet, a FullStack developer from <img src="https://image.flaticon.com/icons
 - <p>I like cooking <i>even i hurt myself</i> 😅 </p>
 - <p><img src="https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white" /> user since <img src="https://img.shields.io/badge/Windows_95-008080?style=flat&logo=windows-95&logoColor=white" /></p>
 
-https://github-readme-stats.vercel.app/api/top-langs/?username=simsekahmett&layout=compact&langs_count=10
+<!--https://github-readme-stats.vercel.app/api/top-langs/?username=simsekahmett&layout=compact&langs_count=10-->
 
 <!--
 **simsekahmett/simsekahmett** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
