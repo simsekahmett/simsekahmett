@@ -47,7 +47,7 @@ I'm Ahmet, a FullStack developer from <img src="https://image.flaticon.com/icons
 		src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white&link=https://steamcommunity.com/id/baronblack99/" /></a>
 </p>
 
-<b>⚡ Fun fact:</b>
+<b>⚡ Fun fact</b>
 <p><img src="https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white" /> user since <img src="https://img.shields.io/badge/Windows_95-008080?style=flat&logo=windows-95&logoColor=white" /></p>
 
 https://github-readme-stats.vercel.app/api/top-langs/?username=simsekahmett&layout=compact&langs_count=10
