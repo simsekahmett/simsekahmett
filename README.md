@@ -1,7 +1,7 @@
 <h1>Heyy <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif?1536351075" width="30"/> </h1>
 
 I'm Ahmet, a FullStack developer from <img src="https://image.flaticon.com/icons/svg/197/197518.svg" width="18"/> <b>Mersin, Turkey</b>
-
+<br>
 
 <b>🔭 Frontend</b>
 <p>
