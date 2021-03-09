@@ -1,12 +1,6 @@
-### Heyy <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif?1536351075" width="30"/> <br>
+<h1>Heyy <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif?1536351075" width="30"/> </h1>
 
 I'm Ahmet, a FullStack developer from <img src="https://image.flaticon.com/icons/svg/197/197518.svg" width="18"/> <b>Mersin, Turkey</b>
-
-<b>🔭 Dev Env</b>
-<p>
-  <img src="https://img.shields.io/badge/Visual_Studio_2019-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" />
-  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
-</p>
 
 <b>🔭 Frontend</b>
 <p>
@@ -31,6 +25,12 @@ I'm Ahmet, a FullStack developer from <img src="https://image.flaticon.com/icons
 <p>
   <img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
   <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+</p>
+
+<b>🔭 Dev Env</b>
+<p>
+  <img src="https://img.shields.io/badge/Visual_Studio_2019-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" />
+  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
 </p>
 
 <b>📫 Socials</b>
