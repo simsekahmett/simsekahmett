@@ -35,13 +35,16 @@ I'm Ahmet, a FullStack developer from <img src="https://image.flaticon.com/icons
 
 <b>Socials</b>
 <p>
-  <a href="https://linkedin.com/in/simsekahmett/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://linkedin.com/in/simsekahmett/" /></a>
-  
-  [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://linkedin.com/in/simsekahmett/")](https://linkedin.com/in/simsekahmett/)
-  [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/simsekahmett")](https://twitter.com/simsekahmett)
-  [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://instagram.com/simsekahmett)](https://instagram.com/simsekahmett)
-  [![StackOverFlow Badge](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white&link=https://stackoverflow.com/simsekahmett)](https://stackoverflow.com/simsekahmett)
-  [![Steam Badge](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white&link=https://steamcommunity.com/id/baronblack99/)](https://steamcommunity.com/id/baronblack99/)
+	<a href="https://linkedin.com/in/simsekahmett/"><img
+			src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://linkedin.com/in/simsekahmett/" /></a>
+	<a href="https://twitter.com/simsekahmett"><img
+			src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/simsekahmett" /></a>
+	<a href="https://instagram.com/simsekahmett"><img
+			src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://instagram.com/simsekahmett" /></a>
+	<a href="https://stackoverflow.com/simsekahmett"><img
+			src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white&link=https://stackoverflow.com/simsekahmett" /></a>
+	<a href="https://steamcommunity.com/id/baronblack99/"><img
+		src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white&link=https://steamcommunity.com/id/baronblack99/" /></a>
 </p>
 
 <p><img src="https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white" /> user since <img src="https://img.shields.io/badge/Windows_95-008080?style=flat&logo=windows-95&logoColor=white" /></p>
