@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Developer from Turkey<img src="https://image.flaticon.com/icons/svg/197/197518.svg" width="13"/>
+Developer from Turkey<img src="https://image.flaticon.com/icons/svg/330/330467.svg" width="15"/>
 
 Dev Env
 - <img src="https://img.shields.io/badge/Visual_Studio_2019-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" />
