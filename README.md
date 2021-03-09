@@ -2,6 +2,7 @@
 
 I'm Ahmet, a FullStack developer from <img src="https://image.flaticon.com/icons/svg/197/197518.svg" width="18"/> <b>Mersin, Turkey</b>
 
+
 <b>🔭 Frontend</b>
 <p>
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
