@@ -36,20 +36,22 @@ I'm Ahmet, a FullStack developer from <img src="https://image.flaticon.com/icons
 <b>📫 Socials</b>
 <p>
 	<a href="https://linkedin.com/in/simsekahmett/"><img
-			src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://linkedin.com/in/simsekahmett/" /></a>
+			src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 	<a href="https://twitter.com/simsekahmett"><img
-			src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/simsekahmett" /></a>
+			src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
 	<a href="https://instagram.com/simsekahmett"><img
-			src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://instagram.com/simsekahmett" /></a>
-	<a href="https://stackoverflow.com/simsekahmett"><img
-			src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white&link=https://stackoverflow.com/simsekahmett" /></a>
+			src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+	<a href="https://stackoverflow.com/users/6653960/ahmet-b-simsek"><img
+			src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" /></a>
 	<a href="https://steamcommunity.com/id/baronblack99/"><img
-		src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white&link=https://steamcommunity.com/id/baronblack99/" /></a>
+		src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" /></a>
+	<a href="https://discordapp.com/users/150324347939192832"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" /></a>
 </p>
 
 <b>⚡ Fun facts</b>
 - <p>I often use ¯\_(ツ)_/¯ or (づ ◕‿◕ )づ ascii arts</p>
 - <p>I fly with Boeing 738 aircraft with X-Plane Flight Simulator in an online virtual aviation assosiation <a href="https://ivao.aero">IVAO</a></p>
+- <p>I like playing online games <i>not an arcade game guy</i></p>
 - <p>I like cooking <i>even i hurt myself</i> 😅 </p>
 - <p><img src="https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white" /> user since <img src="https://img.shields.io/badge/Windows_95-008080?style=flat&logo=windows-95&logoColor=white" /></p>
 
