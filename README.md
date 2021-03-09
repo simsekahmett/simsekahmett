@@ -1,14 +1,14 @@
 ### Hi there <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif?1536351075" width="30"/> <br>
 
-I'm Ahmet, a FullStack developer from <img src="https://image.flaticon.com/icons/svg/330/330467.svg" width="18"/> Turkey, Mersin
+I'm Ahmet, a FullStack developer from <img src="https://image.flaticon.com/icons/svg/197/197518.svg" width="18"/> Turkey, Mersin
 
-Dev Env
+<b>Dev Env</b>
 <p>
   <img src="https://img.shields.io/badge/Visual_Studio_2019-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" />
   <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
 </p>
 
-Frontend
+<b>Frontend</b>>
 <p>
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
@@ -19,7 +19,7 @@ Frontend
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?&style=for-the-badge&logo=bootstrap&logoColor=white" />
 </p>
 
-Backend
+<b>Backend</b>
 <p>
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
   <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />
@@ -27,7 +27,7 @@ Backend
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
 </p>
 
-Cloud
+<b>Cloud</b>
 <p>
   <img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
   <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
