@@ -2,13 +2,13 @@
 
 I'm Ahmet, a FullStack developer from <img src="https://image.flaticon.com/icons/svg/197/197518.svg" width="18"/> <b>Turkey, Mersin</b>
 
-<b>Dev Env</b>
+<b>🔭 Dev Env</b>
 <p>
   <img src="https://img.shields.io/badge/Visual_Studio_2019-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" />
   <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
 </p>
 
-<b>Frontend</b>
+<b>🔭 Frontend</b>
 <p>
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
@@ -19,7 +19,7 @@ I'm Ahmet, a FullStack developer from <img src="https://image.flaticon.com/icons
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?&style=for-the-badge&logo=bootstrap&logoColor=white" />
 </p>
 
-<b>Backend</b>
+<b>🔭 Backend</b>
 <p>
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
   <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />
@@ -27,13 +27,13 @@ I'm Ahmet, a FullStack developer from <img src="https://image.flaticon.com/icons
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
 </p>
 
-<b>Cloud</b>
+<b>🔭 Cloud</b>
 <p>
   <img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
   <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
 </p>
 
-<b>Socials</b>
+<b>📫 Socials</b>
 <p>
 	<a href="https://linkedin.com/in/simsekahmett/"><img
 			src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://linkedin.com/in/simsekahmett/" /></a>
@@ -47,6 +47,7 @@ I'm Ahmet, a FullStack developer from <img src="https://image.flaticon.com/icons
 		src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white&link=https://steamcommunity.com/id/baronblack99/" /></a>
 </p>
 
+<b>⚡ Fun fact:</b>
 <p><img src="https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white" /> user since <img src="https://img.shields.io/badge/Windows_95-008080?style=flat&logo=windows-95&logoColor=white" /></p>
 
 https://github-readme-stats.vercel.app/api/top-langs/?username=simsekahmett&layout=compact&langs_count=10
