@@ -1,7 +1,6 @@
 <h1>Heyy <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif?1536351075" width="30"/> </h1>
 
-<p>I'm Ahmet, currently working in a global known company as a software engineer.</p>
-<p>I'm from <img src="https://image.flaticon.com/icons/svg/197/197518.svg" width="18"/> <b>Mersin, Turkey</b></p> 
+<p>I'm Ahmet from <img src="https://image.flaticon.com/icons/svg/197/197518.svg" width="18"/> <b>Mersin, Turkey</b>, currently working in a global known company as a software engineer.</p>
 <br>
 <br>
 <p>Here are some tech details about me <img src="https://emojis.slackmojis.com/emojis/images/1613461409/13263/bongocat_code.gif?1613461409" width="30"/></p>
