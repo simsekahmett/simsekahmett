@@ -49,7 +49,7 @@
 </p>
 
 <b>⚡ Fun facts</b>
-- <p>I often use ¯\_(ツ)_/¯ and (づ ◕‿◕ )づ ascii arts</p>
+- <p>I often use ¯\_(ツ)_/¯ and (づ ◕‿◕ )づ ascii arts druing my regular chattings</p>
 - <p>I fly with Boeing 738 aircraft with X-Plane Flight Simulator in an online virtual aviation assosiation <a href="https://ivao.aero">IVAO</a></p>
 - <p>I like playing online games <i>not an arcade game guy</i></p>
 - <p>I like cooking <i>even if i hurt myself</i> 😅 </p>
