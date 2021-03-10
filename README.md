@@ -2,7 +2,9 @@
 
 <p>I'm Ahmet, currently working in a global known company as a software engineer.</p>
 <p>I'm from <img src="https://image.flaticon.com/icons/svg/197/197518.svg" width="18"/> <b>Mersin, Turkey</b></p> 
-
+<br>
+<br>
+<p>Here are some tech details about me (づ ◕‿◕ )づ</p>
 <b>🔭 Frontend</b>
 <p>
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
