@@ -4,7 +4,7 @@
 <p>I'm from <img src="https://image.flaticon.com/icons/svg/197/197518.svg" width="18"/> <b>Mersin, Turkey</b></p> 
 <br>
 <br>
-<p>Here are some tech details about me (づ ◕‿◕ )づ</p>
+<p>Here are some tech details about me <img src="https://emojis.slackmojis.com/emojis/images/1613461409/13263/bongocat_code.gif?1613461409" width="30"/></p>
 <b>🔭 Frontend</b>
 <p>
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
