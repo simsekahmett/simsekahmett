@@ -51,9 +51,9 @@
 
 <b>⚡ Fun facts</b>
 - <p>I often use ¯\_(ツ)_/¯ and (づ ◕‿◕ )づ ascii arts druing my regular chattings</p>
-- <p>I fly with Boeing 738 aircraft with X-Plane Flight Simulator in an online virtual aviation assosiation <a href="https://ivao.aero">IVAO</a></p>
+- <p>I fly with Boeing 738 aircraft with X-Plane Flight Simulator in an online virtual aviation network <a href="https://ivao.aero">IVAO</a></p>
 - <p>I like playing online games <i>not an arcade game guy</i></p>
-- <p>I like cooking <i>even if i hurt myself</i> 😅 </p>
+- <p>I like cooking <i>and eating ofc</i> 😅 </p>
 - <p><img src="https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white" /> user since <img src="https://img.shields.io/badge/Windows_95-008080?style=flat&logo=windows-95&logoColor=white" /></p>
 
 <!--https://github-readme-stats.vercel.app/api/top-langs/?username=simsekahmett&layout=compact&langs_count=10-->
