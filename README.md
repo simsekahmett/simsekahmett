@@ -1,6 +1,6 @@
 <h1>Heyy <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif?1536351075" width="30"/> </h1>
 
-<p>I'm Ahmet from <img src="https://image.flaticon.com/icons/svg/197/197518.svg" width="18"/> <b>Mersin, Turkey</b>, currently working in a global known company as a software engineer.</p>
+<p>I'm Ahmet from <b>Mersin, Turkey</b> <img src="https://image.flaticon.com/icons/svg/197/197518.svg" width="18"/>, currently working in a global known company as a software engineer.</p>
 <br>
 <b>🔭 Frontend</b>
 <p>
