@@ -56,7 +56,7 @@
 - <p>I like cooking <i>and eating ofc</i> 😅 </p>
 - <p><img src="https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white" /> user since <img src="https://img.shields.io/badge/Windows_95-008080?style=flat&logo=windows-95&logoColor=white" /></p>
 - <p>I fly with Boeing 738 aircraft with X-Plane Flight Simulator in an online virtual aviation network <a href="https://ivao.aero">IVAO</a> </p>
-- <p>My current IVAO status: </p><p><img src="http://status.ivao.aero/324460.png"></p> 
+   <p>My current IVAO status: </p><p><img src="http://status.ivao.aero/324460.png"></p> 
 
 <!--https://github-readme-stats.vercel.app/api/top-langs/?username=simsekahmett&layout=compact&langs_count=10-->
 
