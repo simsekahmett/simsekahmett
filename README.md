@@ -52,7 +52,7 @@
 
 <b>⚡ Fun facts</b>
 - <p>I often use ¯\_(ツ)_/¯ and (づ ◕‿◕ )づ ascii arts druing my regular chattings</p>
-- <p>I fly with Boeing 738 aircraft with X-Plane Flight Simulator in an online virtual aviation network <a href="https://ivao.aero">IVAO</a></p>
+- <p>I fly with Boeing 738 aircraft with X-Plane Flight Simulator in an online virtual aviation network <a href="https://ivao.aero">IVAO</a> My current IVAO status: <img src="http://status.ivao.aero/xxxxxx.png"></p> 
 - <p>I like playing online games <i>not an arcade game guy</i></p>
 - <p>I like cooking <i>and eating ofc</i> 😅 </p>
 - <p><img src="https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white" /> user since <img src="https://img.shields.io/badge/Windows_95-008080?style=flat&logo=windows-95&logoColor=white" /></p>
