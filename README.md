@@ -1,6 +1,6 @@
 <h1>Heyy <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif?1536351075" width="30"/> </h1>
 
-<p>I'm Ahmet from <b>Mersin, Turkey</b> <img src="https://image.flaticon.com/icons/svg/197/197518.svg" width="18"/>, currently working in a global known company as a software engineer.</p>
+<p>I'm Ahmet from <b>Mersin, Turkey</b>, currently working in a global known company as a software engineer.</p>
 <br>
 <p><i>Here you can see my skills set</i></p>
 <b>🔭 Frontend</b>
@@ -52,10 +52,10 @@
 
 <b>⚡ Fun facts</b>
 - <p>I often use ¯\_(ツ)_/¯ and (づ ◕‿◕ )づ ascii arts druing my regular chattings</p>
-- <p>I fly with Boeing 738 aircraft with X-Plane Flight Simulator in an online virtual aviation network <a href="https://ivao.aero">IVAO</a> My current IVAO status: <img src="http://status.ivao.aero/xxxxxx.png"></p> 
 - <p>I like playing online games <i>not an arcade game guy</i></p>
 - <p>I like cooking <i>and eating ofc</i> 😅 </p>
 - <p><img src="https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white" /> user since <img src="https://img.shields.io/badge/Windows_95-008080?style=flat&logo=windows-95&logoColor=white" /></p>
+- <p>I fly with Boeing 738 aircraft with X-Plane Flight Simulator in an online virtual aviation network <a href="https://ivao.aero">IVAO</a> My current IVAO status: <img src="http://status.ivao.aero/324460.png"></p> 
 
 <!--https://github-readme-stats.vercel.app/api/top-langs/?username=simsekahmett&layout=compact&langs_count=10-->
 
