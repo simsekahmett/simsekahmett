@@ -3,6 +3,10 @@
 <p>I'm Ahmet from <b>Mersin, Turkey</b>, currently working in a global known company as a software engineer.</p>
 <br>
 <p><i>Here you can see my skills set</i></p>
+<b>🔭 Mobile</b>
+<p>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+</p>
 <b>🔭 Frontend</b>
 <p>
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
