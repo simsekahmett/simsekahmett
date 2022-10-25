@@ -61,6 +61,8 @@
 - <p><img src="https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white" /> user since <img src="https://img.shields.io/badge/Windows_95-008080?style=flat&logo=windows-95&logoColor=white" /></p>
 - <p>I fly with Boeing 738 and Airbus A319 aircrafts with X-Plane Flight Simulator in an online virtual aviation network <a href="https://ivao.aero">IVAO</a> </p>
    <p>My current IVAO status: </p><p><a href="https://ivao.aero/Member.aspx?ID=324460"><img src="http://status.ivao.aero/324460.png"></a></p> 
+   
+![@simsekahmett's stats](https://github-readme-stats.vercel.app/api?username=simsekahmett&layout=compact&count_private=true&show_icons=true)   
 
 <!--https://github-readme-stats.vercel.app/api/top-langs/?username=simsekahmett&layout=compact&langs_count=10-->
 
