@@ -64,7 +64,7 @@
    
 ![@simsekahmett's stats](https://github-readme-stats.vercel.app/api?username=simsekahmett&layout=compact&count_private=true&show_icons=true)  
 
-![@simsekahmett's stats]([https://github-readme-stats.vercel.app/api?username=simsekahmett&layout=compact&count_private=true](https://github-readme-stats.vercel.app/api/top-langs/?username=simsekahmett&layout=compact)    
+![@simsekahmett's stats](https://github-readme-stats.vercel.app/api/top-langs/?username=simsekahmett&layout=compact)
 
 <!--https://github-readme-stats.vercel.app/api/top-langs/?username=simsekahmett&layout=compact&langs_count=10-->
 
