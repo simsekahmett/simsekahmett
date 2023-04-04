@@ -54,12 +54,17 @@
 	<a href="https://discordapp.com/users/150324347939192832"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" /></a>
 </p>
 
+<b>📰 Blogs</b>
+<p>
+	<a href="https://simsekahmett.medium.com"><img src="https://img.shields.io/badge/Medium-232F3E?style=for-the-badge&logo=medium&logoColor=white" /></a>
+	<a href="https://dev.to/simsekahmett"><img src="https://img.shields.io/badge/dev.to-232F3E?style=for-the-badge&logo=dev.to&logoColor=white" /></a>
+</p>
+
 <b>⚡ Fun facts</b>
 - <p>I often use ¯\_(ツ)_/¯ and (づ ◕‿◕ )づ ascii arts druing my regular chattings</p>
 - <p>I like playing online games <i>not an arcade game guy</i></p>
 - <p>I like cooking <i>and eating ofc</i> 😅 </p>
 - <p><img src="https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white" /> user since <img src="https://img.shields.io/badge/Windows_95-008080?style=flat&logo=windows-95&logoColor=white" /></p>
-- <p>I write .NET blogs into <a href="https://simsekahmett.medium.com"><img src="https://img.shields.io/badge/Medium-232F3E?style=for-the-badge&logo=medium&logoColor=white" /></a> and <a href="https://dev.to/simsekahmett"><img src="https://img.shields.io/badge/dev.to-232F3E?style=for-the-badge&logo=dev.to&logoColor=white" /></a>
 - <p>I fly with Boeing 738 and Airbus A319 aircrafts with X-Plane Flight Simulator in an online virtual aviation network <a href="https://ivao.aero">IVAO</a> </p>
    <p>My current IVAO status: </p><p><a href="https://ivao.aero/Member.aspx?ID=324460"><img src="http://status.ivao.aero/324460.png"></a></p> 
    
